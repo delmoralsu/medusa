@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/search.md",
+                "file": "content/notes/showcase.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cname",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/search.md",
+                "file": "content/notes/showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/search.md",
+                "file": "content/notes/showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/search.md"
+                "file": "content/notes/showcase.md"
               }
             }
           }
@@ -147,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b425856514f278",
+  "active": "85292721330d442f",
   "lastOpenFiles": [
-    "content/notes/primeranota.md",
+    "content/_index.md",
     "content/notes/search.md",
+    "content/notes/primeranota.md",
     "content/notes/setup.md",
     "content/notes/showcase.md",
     "content/notes/troubleshooting.md",
     "content/notes/updating.md",
     "content/notes/custom Domain.md",
     "content/notes/config.md",
-    "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/callouts.md"
+    "content/notes/CJK + Latex Support (测试).md"
   ]
 }
