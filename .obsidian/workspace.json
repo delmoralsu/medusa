@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/custom Domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/custom Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/custom Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/custom Domain.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "85292721330d442f",
   "lastOpenFiles": [
-    "content/notes/primeranota.md",
-    "content/_index.md",
-    "content/notes/showcase.md",
-    "content/notes/troubleshooting.md",
-    "content/notes/docker.md",
+    "content/notes/config.md",
     "content/notes/custom Domain.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/notes/callouts.md",
-    "content/private/private-note.md",
-    "content/notes/editing.md"
+    "content/_index.md",
+    "content/notes/primeranota.md",
+    "content/notes/showcase.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/docker.md",
+    "content/private/private-note.md"
   ]
 }
