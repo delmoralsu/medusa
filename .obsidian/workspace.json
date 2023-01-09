@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primera",
+                "query": "cname",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85292721330d442f",
+  "active": "53b425856514f278",
   "lastOpenFiles": [
     "content/notes/primeranota.md",
     "content/notes/search.md",
